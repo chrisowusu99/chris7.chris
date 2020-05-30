@@ -1,0 +1,18 @@
+{
+  "name": "chris7.chris-portfolio",
+  "version": "1.0.0",
+  "description": "This is my website",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [
+    "chris7.chris",
+    "pertfolio"
+  ],
+  "author": "Christian Owusu",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
