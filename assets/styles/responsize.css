@@ -1,0 +1,108 @@
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .text-affect,
+  .typed-cursor {
+    font-size: 4.5em !important;
+  }
+
+  .socials a {
+    height: 35px;
+    width: 35px;
+    font-size: 16px;
+    line-height: 2;
+  }
+  .socials {
+    margin-top: 30px !important;
+  }
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+  .text-affect,
+  .typed-cursor {
+    font-size: 1.5em !important;
+  }
+
+  .welcome-text h2 {
+    margin-left: -1px !important;
+  }
+
+  .socials {
+    text-align: center;
+    margin-top: 10%;
+  }
+
+  .socials li {
+    margin-right: 18px !important;
+  }
+
+  .socials a {
+    height: 35px;
+    width: 35px;
+    line-height: 2;
+    text-align: center;
+  }
+
+  #about h2 {
+    font-size: 2.1em !important;
+    padding-bottom: 1em;
+  }
+
+  #work {
+    padding: 6em 1em 3em !important;
+    background-color: #fff;
+  }
+
+  #teaching {
+    padding: 6em 0em 3em !important;
+  }
+
+  #teaching h2 {
+    font-size: 2.6em !important;
+  }
+
+  #testimonial {
+    padding: 10px !important;
+  }
+
+  #testimonial h2.text-center {
+    font-size: 1.8em !important;
+    margin-left: -20px !important;
+  }
+
+  .testi-comment i {
+    font-size: 23px !important;
+  }
+
+  #footer-cta {
+    padding: 6em 0em 5.6em !important;
+  }
+
+  #footer-cta h2 {
+    font-size: 1.8em !important;
+  }
+
+  #work h2.text-center {
+    font-size: 2.6em !important;
+  }
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+}
+
+@media only screen and (min-width: 375px) and (max-width: 767px) {
+}
+
+@media only screen and (min-width: 411px) and (max-width: 767px) {
+}
+
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+  .welcome-text h2 {
+    font-size: 3em !important;
+  }
+
+  .socials {
+    margin-top: 45px;
+  }
+}
