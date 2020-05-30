@@ -14,6 +14,7 @@
   ],
   "author": "Christian Owusu",
   "license": "MIT",
+  "homepage": "https://github.com/chrisowusu99/chris7.chris",
   "dependencies": {
     "gh-pages": "^3.0.0"
   }
